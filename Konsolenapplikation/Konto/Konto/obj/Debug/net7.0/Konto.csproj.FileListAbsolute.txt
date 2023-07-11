@@ -1,0 +1,15 @@
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.csproj.AssemblyReference.cache
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.AssemblyInfoInputs.cache
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.AssemblyInfo.cs
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.csproj.CoreCompileInputs.cache
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/bin/Debug/net7.0/Konto
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/bin/Debug/net7.0/Konto.deps.json
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/bin/Debug/net7.0/Konto.runtimeconfig.json
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/bin/Debug/net7.0/Konto.dll
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/bin/Debug/net7.0/Konto.pdb
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.dll
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/refint/Konto.dll
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.pdb
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/Konto.genruntimeconfig.cache
+/Users/Lisa/Documents/LAP/übungen/Bsp2/Pizzaservice/Konsolenapplikation/Konto/Konto/obj/Debug/net7.0/ref/Konto.dll
